@@ -34,3 +34,9 @@ simply run app.py file
  <br> 
  
 <img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(49).png">
+
+
+# Improvements
+
+WebApp can be deployed into production but can be slow sometimes. Good Infrastructure and Online Learning can be implemented in the model to provide faster results to end users.
+Any other Contributions are welcomed...
