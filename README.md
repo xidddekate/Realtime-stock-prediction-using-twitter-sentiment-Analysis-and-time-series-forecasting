@@ -14,13 +14,15 @@ simply run app.py file
 
 <img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(44).png">
 
-<br><br> **Enter the Ticker (Stock Symbol)**
+<br><br> **Enter the Ticker (Stock Symbol)**<br>
 <img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(45).png">
 
-<br><br> **Get the Predictions by different types of models**
+<br><br> **Get the Predictions and accuracies by different types of models**<br>
 <img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(46).png">
 <img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(47).png">
 
-<br><br> **Twitter Sentiment Analysis**
+<br><br> **Twitter Sentiment Analysis**<br>
 <img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(48).png">
+
+<br><br> **BUY OR SELL ?**
 <img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(49).png">
