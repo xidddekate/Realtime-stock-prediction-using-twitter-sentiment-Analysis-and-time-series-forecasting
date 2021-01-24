@@ -25,11 +25,11 @@ from textblob import TextBlob
 import constants as ct
 from Tweet import Tweet
 import warnings
-# import nltk
+import nltk
 warnings.filterwarnings("ignore")
 #***************** FLASK *****************************
 app = Flask(__name__)
-# nltk.download('punkt')
+nltk.download('punkt')
 #To control caching so as to save and retrieve plot figs on client side
 @app.after_request
 def add_header(response):
