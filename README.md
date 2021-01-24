@@ -11,4 +11,16 @@ simply run app.py file
 
 # Screenshots
 
+
+<img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(44).png">
+
+<br><br> **Enter the Ticker (Stock Symbol)**
+<img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(45).png">
+
+<br><br> **Get the Predictions by different types of models**
+<img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(46).png">
+<img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(47).png">
+
+<br><br> **Twitter Sentiment Analysis**
+<img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(48).png">
 <img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(49).png">
