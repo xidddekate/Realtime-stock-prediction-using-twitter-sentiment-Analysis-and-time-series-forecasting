@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Future Stocks</title>
+  <!-- {{url_for('static',filename='style.css')}} -->
+  <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+  <div class="hero">
+    <br>
+    <div class="navbar">
+      <img src="../static/logo.png" class="logo">
+      <button type="button" class="btn"><h1>......Created with ❤️ by Sudhanshu Dekate</h1></button>
+    </div>
+    <div class="content">
+      <h1>Welcome To</h1><h1 class="font">Live Future<br> Stock Prediction</h1>
+
+
+      <input class="c-checkbox" type="checkbox" id="checkbox" name="nm">
+<div class="c-formContainer"> 
+  <form class="c-form" action="{{ url_for('insertintotable') }}" method="POST">
+
+    {% if not_found %}
+          <div class="alert alert-danger" style="color: red;" role="alert">
+              Stock Symbol (Ticker) Not Found. Please Enter a Valid Stock Symbol
+          </div>
+    {% endif %}
+
+
+    <label class="c-form__toggle" for="checkbox" data-title="Predict Future stocks"></label>
+
+
+    <input class="c-form__input" name = "nm" placeholder="Company Stock Symbol" type="text" required>
+    <label class="c-form__buttonLabel" for="checkbox">
+      <button class="c-form__button" type="submit">Predict</button>
+          
+    </label>
+    
+    
+  </form>  
+
+
+
+
+
+
+   <!-- <form class="c-form" action = "{{ url_for('insertintotable') }}" method = "POST">
+    <div class="login_title">
+      <h2>PLEASE ENTER A STOCK SYMBOL</h2>{% if not_found %}
+      <div class="alert alert-danger" style="color: red;" role="alert">
+Stock Symbol (Ticker) Not Found. Please Enter a Valid Stock Symbol
+</div>
+      {% endif %}
+    </div>
+    <div class="form-group">
+      <input type="text" class="form-control" name = "nm" placeholder="Company Stock Symbol">
+
+    </div>
+    <div class="form-group">
+      
+    </div>
+    <div class="form-group">
+      <button class="btn btn-login">PREDICT THE FUTURE</button>
+    </div>
+    
+  </form>  -->
+
+
+</div>
+      <!-- <button type="button" class="btn">Tour</button> -->
+    </div>
+
+    <!-- <div class="side-bar"> -->
+
+      <!-- <img src="../static/menu.png" class="menu">
+      <div class="social-links">
+        <img src="../static/fb.png" >
+        <img src="../static/ig.png" >
+        <img src="../static/tw.png" >
+      </div>
+
+      <div class="useful-links">
+        <img src="../static/share.png" >
+        <img src="../static/info.png" >
+      </div> -->
+
+    <!-- </div> -->
+
+
+    <div class="bubbles">
+      <img src="../static/bubble.png">
+      <img src="../static/bubble.png">
+      <img src="../static/bubble.png">
+      <img src="../static/bubble.png">
+      <img src="../static/bubble.png">
+      <img src="../static/bubble.png">
+      <img src="../static/bubble.png">
+    </div>
+  </div>
+</body>
+</html>
