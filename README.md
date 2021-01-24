@@ -11,3 +11,4 @@ simply run app.py file
 
 # Screenshots
 
+<img src="https://github.com/xidddekate/Realtime-stock-prediction-using-twitter-sentiment-Analysis-and-time-series-forecasting/blob/main/Screenshot%20(49).png">
