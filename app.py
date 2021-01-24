@@ -17,7 +17,6 @@ import preprocessor as p
 import re
 from sklearn.linear_model import LinearRegression
 from textblob import TextBlob
-import constants as ct
 from Tweet import Tweet
 import warnings
 import nltk
